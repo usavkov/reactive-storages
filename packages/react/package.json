@@ -1,0 +1,14 @@
+{
+  "name": "@reactive-storages/react",
+  "version": "0.0.0",
+  "description": "Reactive storages API for React UI framework.",
+  "author": "Yury Saukou <yury_saukou@gmail.com>",
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@reactive-storages/core": "^0.0.0"
+  }
+}

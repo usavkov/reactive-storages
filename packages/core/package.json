@@ -1,0 +1,12 @@
+{
+  "name": "@reactive-storages/core",
+  "version": "0.0.0",
+  "description": "Core reactive storages API.",
+  "author": "Yury Saukou <yury_saukou@gmail.com>",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}

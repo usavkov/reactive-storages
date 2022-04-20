@@ -1,6 +1,10 @@
 {
-  "name": "reactive-storages",
+  "name": "@reactive-storages/root",
   "private": true,
   "version": "0.0.0",
-  "devDependencies": {}
+  "license": "MIT",
+  "devDependencies": {},
+  "workspaces": [
+    "packages/*"
+  ]
 }
